@@ -20,6 +20,8 @@ My contributions in the project are:
 
 - To build the "prototype". I tested my ideas and algorithms in `C++` first, and then my teammates transplant the code to the `LabVIEW` platform.
 
+For full technical details, please refer to my [report](/Report/pdf/基于LabVIEW的台球辅助系统报告.pdf) (in Chinese).
+
 ## 2. Demo
 
 Here is the workflow of our project:
