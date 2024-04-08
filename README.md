@@ -6,7 +6,7 @@
 
 **Skills:** _OpenCV_, _C++_, _LabVIEW_
 
-This is the course project for `Virtual Experimental System Based on Labview` and my final score for the course is **96/100**.
+This is the course project for `Virtual Experimental System Based on LabVIEW` and my final score for the course is **96/100**.
 
 This is a teamwork and my teammates are _Weishu Chen_ and _Han Huang_.
 
