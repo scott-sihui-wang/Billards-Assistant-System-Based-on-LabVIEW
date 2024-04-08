@@ -30,12 +30,12 @@ Here is the workflow of our project:
 
 - Estimate the range of the table:
 
-![](/Asset/fig3.png)
+![](/Asset/fig2.png)
 
 - Estimate the location of the stick:
 
-![](/Asset/fig4.png)
+![](/Asset/fig3.png)
 
 - Draw ball path:
 
-![](/Asset/fig5.png)
+![](/Asset/fig4.png)
