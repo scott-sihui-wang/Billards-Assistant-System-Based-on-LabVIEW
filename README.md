@@ -18,7 +18,7 @@ My contributions in the project are:
 
 - To design the algorithm to calculate the path of the balls;
 
-- To build the "prototype". I tested my ideas and algorithms in C++ first, and then my teammates transplant the code to the LabVIEW platform.
+- To build the "prototype". I tested my ideas and algorithms in `C++` first, and then my teammates transplant the code to the `LabVIEW` platform.
 
 ## 2. Demo
 
