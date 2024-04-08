@@ -22,3 +22,20 @@ My contributions in the project are:
 
 ## 2. Demo
 
+Here is the workflow of our project:
+
+- Generate a binarized image. Use `HoughCircle` to detect balls:
+
+![](/Asset/fig1.png)
+
+- Estimate the range of the table:
+
+![](/Asset/fig3.png)
+
+- Estimate the location of the stick:
+
+![](/Asset/fig4.png)
+
+- Draw ball path:
+
+![](/Asset/fig5.png)
